@@ -1,21 +1,21 @@
 [![MasterHead](https://www.tricentis.com/wp-content/uploads/2019/01/technology-background-header-1120x389.png)](https://jaymevada.netlify.com)
 <h1 align="center">Hi 👋, I'm Jay Mevada</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cyber Security Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/itjaymevada/itjaymevada/blob/main/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37332f34362f39392f3336305f465f3237333436393937325f4553553952713365497053724b337864646c4945794468377672736c626947672e6a7067-removebg-preview.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itjaymevada&label=Profile%20views&color=0e75b6&style=flat" alt="itjaymevada" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script and backend languages**
+- 🌱 I’m currently learning **Cyber Security and Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **Web Development and Cyber Security projects**
+- 👯 I’m looking to collaborate on **Cyber Security projects**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Ethical hacking and Cyber Security**
 
 - 👨‍💻 All of my projects are available at [jaymevada.netlify.com](jaymevada.netlify.com)
 
-- 💬 Ask me about **C ,JS ,HTML ,CSS**
+- 💬 Ask me about **C ,C++ ,JS ,HTML ,CSS ,Ethical Hacking**
 
 - 📫 How to reach me **mevadajay2002@gmail.com**
 
