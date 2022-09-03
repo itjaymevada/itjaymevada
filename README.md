@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [jaymevada.netlify.com](jaymevada.netlify.com)
 
-- 💬 Ask me about **C ,C++ ,JS ,HTML ,CSS ,Ethical Hacking**
+- 💬 Ask me about **C ,C++ ,JS ,Java ,HTML ,CSS ,Ethical Hacking**
 
 - 📫 How to reach me **mevadajay2002@gmail.com**
 
