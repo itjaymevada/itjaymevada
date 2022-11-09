@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Java based app and softwares**
 
-- 👨‍💻 All of my projects are available at [jaymevada.netlify.com](jaymevada.netlify.com)
+- 👨‍💻 All of my projects are available at [http://jaymevada.netlify.com/](jaymevada.netlify.com)
 
 - 💬 Ask me about **Java ,C ,C++ ,HTML ,CSS ,JS**
 
 - 📫 How to reach me **mevadajay2002@gmail.com**
 
-- 📄 Know about my experiences [jaymevada.netlify.com](jaymevada.netlify.com)
+- 📄 Know about my experiences [http://jaymevada.netlify.com/](jaymevada.netlify.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
